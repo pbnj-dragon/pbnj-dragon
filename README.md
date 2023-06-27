@@ -1,9 +1,18 @@
 👋 Hi, I’m @pbnj-dragon (Peter Benjamin)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am interested in distributed systems, systems programming, infrastructure/platform engineering, & security.
+- Programming languages:
+  - Rust
+  - Go
+  - TypeScript
+  - Python
+  - Bash
+- Tech stack:
+  - Kubernetes
+  - Docker
+  - Linux
+  - Terraform
+  - AWS/GCP/Azure
 
 <!---
 pbnj-dragon/pbnj-dragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
